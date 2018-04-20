@@ -3,7 +3,7 @@ body {
   color: white;
   background-image: url("");
   background-repeat: repeat-y;
-  background-position: top center; 
+  background-position: top center;
   background-size: 100%;
   max-width: 100%;
   max-height: 100%;
@@ -20,6 +20,10 @@ body {
 h1{
   font-family: 'Amatic SC', bold;
   font-size: 68px;
+}
+
+h6{
+  color: white;
 }
 
 p {
@@ -69,5 +73,5 @@ p {
 #newLocation{
     font-family: 'Amatic SC', bold;
    font-size: 18px;
-  
+
 }
